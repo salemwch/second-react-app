@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+}
+
+.title-red{
+    text-align: center;
+    margin: 0 0 3px 0;
+    padding: 20px;
+    width: 100%;
+}
+span{
+    color: red;
+}
+.title-a{
+    color: black;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    color: black;
+    padding: 45px 0 0 0;
+}
+.img-a{
+    margin: 100px auto;
+    width: 70%; 
+    padding: 8px;
+}
+img{
+    float: left;
+    width: 350px;
+    height:350px; 
+    padding: 0 10px 0 0;
+    border-radius: 10%;
+    transition: 0.5s ease-in-out;
+}
+img:hover{
+    transform: scale(1.1);
+}
+p{
+    font-size: 1.1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.title-r{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 35rem;
+}
+
+.img-box{
+    margin: 20px 0 0 60px;
+    float: left;
+    width: 350px;
+    height:350px; 
+    padding: 0 0 0 10px;
+    border-radius: 10%;
+}
+.prog{
+    margin: 4rem auto;
+    padding: 20px 40px 0 0 ;
+    width: 58%;
+    float: right;
+}
+.text-e{
+    padding: 10px;
+}
+.progress{
+    height: 30px;
+    transition: 0.5s ease-in-out;
+}
+.progress:hover{
+    transform: scale(1.2);
+}
+.pro{
+    position: absolute;
+    padding: 5px;
+    color: white;
+}
+.title-s{
+    text-align: center;
+    margin: 0 0 3px 0;
+    padding: 20px;
+    width: 100%;
+}
+.video{
+        width: 100%;
+        margin: 20px 0px 20px 50px;
+        padding: 3rem 0rem 3rem 35rem;
+}
